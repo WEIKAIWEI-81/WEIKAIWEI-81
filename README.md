@@ -1,16 +1,47 @@
-## Hi there 👋
+# 魏開緯（Wei Kai Wei）  
+**BIMエンジニア／マネージャー**
 
-<!--
-**WEIKAIWEI-81/WEIKAIWEI-81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## ✨ プロフィール
+- **1992 / 05 / 15 生まれ・血液型 A 型**  
+- **E-mail：dwe90289@gmail.com**  
+- BIM モデル構築・干渉検討レポート作成・プレゼン資料作成を中心に、  
+  Revit＋プログラミング（Dynamo／C#／Revit API）を駆使して  
+  部門の業務効率を大幅に向上。  
+- これまで **23 件の BIM プロジェクト** を主導し、  
+  **12 種の Dynamo ツール**、**3 つの Revit API アプリ**、  
+  **2 つの Web プラットフォーム** を開発。  
+- チームリーダーとして最大 7 名を統括し、標準化とプロセス整備を推進。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🗂️ キャリア年表
+| 年 | 経歴 |
+| --- | --- |
+| **2016** | 国立台湾科技大学 大学院 土木工学科 卒業 |
+| **2017** | 晨禎營造株式会社 入社<br> BIM モデル構築・干渉検討レポート・施主向けプレゼン資料を担当 |
+| **2022** | BIM 部門 **係長** に昇進（3 名チームを率いて BIM プロジェクトを遂行） |
+| **2025** | BIM 部門 **副課長** に昇進（7 名チームを統括し、施工図作成・標準化・プロセス整備を担当） |
+| **現在** | BIM 推進とデジタル開発の両面で業務効率化をリード |
+
+---
+
+## 🔧 コアスキル
+- **ソフト／API**：Revit、Tekla、Revit API、Tekla Open API  
+- **プログラミング**：C#、Python、Dynamo  
+- **マネジメント**：プロジェクトリード、チームビルディング、プロセス最適化  
+
+---
+
+## 🌟 強み（自己 PR）
+> BIM モデル構築と干渉レポート作成を得意とし、  
+> 技術力とリーダーシップを両立。  
+> Dynamo・API 開発を通じた **自動化ツールの内製化** で  
+> ワークフローを革新し、組織全体の生産性向上に貢献してきました。  
+> **BIM 推進 × デジタル開発** のシナジーで、  
+> 御社の DX を加速させる所存です。  
+
+---
+
+<!-- 末尾はお好みで SNS や追加リンクを配置できます -->
