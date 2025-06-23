@@ -29,7 +29,7 @@
 
 ## 🔧 コアスキル
 - **ソフト／API**：Revit、Tekla、Revit API、Tekla Open API  
-- **プログラミング**：C#、Python、Dynamo  
+- **プログラミング**：C#、Python、Dynamo、PHP、HTML、CSS、JavaScript
 - **マネジメント**：プロジェクトリード、チームビルディング、プロセス最適化  
 
 ---
